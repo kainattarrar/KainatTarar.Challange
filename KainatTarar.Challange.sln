@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KainatTarar.Challange.Entities", "KainatTarar.Challange.Entities\KainatTarar.Challange.Entities.csproj", "{2A8721E5-D9ED-4DFD-B539-EE99A75BC004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KainatTarar.Challange.Shared", "KainatTarar.Challange.Shared\KainatTarar.Challange.Shared.csproj", "{DFB7D16A-E3AF-4081-A338-AB083E8DAF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KainatTarar.Challange.Data", "KainatTarar.Challange.Data\KainatTarar.Challange.Data.csproj", "{9718CEF3-AFC0-4D5A-A173-AE3637CEFEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KainatTarar.Challange.Model", "KainatTarar.Challange.Model\KainatTarar.Challange.Model.csproj", "{67347887-A091-48AD-899F-1C9B0C62A069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KainatTarar.Challange.Service", "KainatTarar.Challange.Service\KainatTarar.Challange.Service.csproj", "{AE9A815F-E79F-4061-9D6D-4B56A84865AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KainatTarar.Challange.API", "KainatTarar.Challange.API\KainatTarar.Challange.API.csproj", "{66B8D937-F73A-43D1-86A3-8C4AEA3441E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8721E5-D9ED-4DFD-B539-EE99A75BC004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8721E5-D9ED-4DFD-B539-EE99A75BC004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8721E5-D9ED-4DFD-B539-EE99A75BC004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8721E5-D9ED-4DFD-B539-EE99A75BC004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB7D16A-E3AF-4081-A338-AB083E8DAF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB7D16A-E3AF-4081-A338-AB083E8DAF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB7D16A-E3AF-4081-A338-AB083E8DAF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB7D16A-E3AF-4081-A338-AB083E8DAF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9718CEF3-AFC0-4D5A-A173-AE3637CEFEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9718CEF3-AFC0-4D5A-A173-AE3637CEFEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9718CEF3-AFC0-4D5A-A173-AE3637CEFEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9718CEF3-AFC0-4D5A-A173-AE3637CEFEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67347887-A091-48AD-899F-1C9B0C62A069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67347887-A091-48AD-899F-1C9B0C62A069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67347887-A091-48AD-899F-1C9B0C62A069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67347887-A091-48AD-899F-1C9B0C62A069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9A815F-E79F-4061-9D6D-4B56A84865AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9A815F-E79F-4061-9D6D-4B56A84865AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9A815F-E79F-4061-9D6D-4B56A84865AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9A815F-E79F-4061-9D6D-4B56A84865AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B8D937-F73A-43D1-86A3-8C4AEA3441E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B8D937-F73A-43D1-86A3-8C4AEA3441E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B8D937-F73A-43D1-86A3-8C4AEA3441E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B8D937-F73A-43D1-86A3-8C4AEA3441E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A45A208-4C65-440D-9E88-C28387AB7E23}
+	EndGlobalSection
+EndGlobal
